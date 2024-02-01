@@ -35,7 +35,7 @@ df %>%
 
 
 
-#EXPLICANDO PASSO A PASSO DAS FUNCOES E APLICACOES
+### EXPLICANDO PASSO A PASSO DAS FUNCOES E APLICACOES
 
 #"date" ja esta no formato americano (Y, m, d) reconhecido pelo R, porém
 #"date" foi equivocadamente criado, devo, a partir do "time" (do df), descobrir
