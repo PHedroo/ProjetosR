@@ -60,5 +60,3 @@ df %>%
   geom_point(col = 'darkgreen') + #argumento de geom_point(col = 'cor') <- col = color
   geom_line(col ='darkgreen') + #argumento de geom_line(col = 'cor') <- col = color
   theme_minimal() #uso esse ou o theme_bw(). Existem diversos outros temas: https://ggplot2-book.org/themes#:~:text=0%3A,reminiscent%20of%20a%20line%20drawing.
-
-
