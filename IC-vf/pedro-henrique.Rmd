@@ -334,7 +334,6 @@ dados2 %>%
 ## SERIE TEMPORAL, 2015 A 2022 
 
 ```{r}
-
 dados2 %>%
   filter(str_detect(activity_units, 'animal'),
          gas == 'co2e_100yr',
