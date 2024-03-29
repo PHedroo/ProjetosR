@@ -335,7 +335,6 @@ dados2 %>%
 
 ```{r}
 
-
 dados2 %>%
   filter(str_detect(activity_units, 'animal'),
          gas == 'co2e_100yr',
